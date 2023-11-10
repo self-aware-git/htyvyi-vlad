@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#персонажі  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#нпс  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#локація  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#боги  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    },
+    {
+      "query": "tag:#монстри  ",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.0911458333333333,
+  "repelStrength": 8.60677083333333,
+  "linkStrength": 1,
+  "linkDistance": 60,
+  "scale": 0.7205064798042684,
+  "close": true
+}

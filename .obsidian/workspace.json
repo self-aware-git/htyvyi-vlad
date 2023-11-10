@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d6c5eb23d0fa7545",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a556e1d65274e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d8abb231828c72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd7a12b646ccf4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ffccd69d682c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34594d634678cf2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1151f962bd32dd96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c8469d9250b297d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d45e8c9841773c0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2f5c9d72af3dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244616d4668321c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebe5fb991624940a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "419a63ea1ffe198b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bc556c1998b3e93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markbase:Sync all Markbase projects": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "19d8abb231828c72",
+  "lastOpenFiles": [
+    "сесії/=2=.md",
+    "квестові предмети/отрута павуків.md",
+    "сесії/=1=.md",
+    "Боги/Фараон.md",
+    "персонажі/Фалкон.md",
+    "персонажі/Ульфред.md",
+    "персонажі/Аклазоц.md",
+    "персонажі/Сігма.md",
+    "персонажі/Квілаг.md",
+    "персонажі/Катаан.md",
+    "монстри/мумія.md",
+    "монстри/Гобліни.md",
+    "монстри",
+    "квестові предмети/божественні вогні.md",
+    "Боги/Хетентеп.md",
+    "Боги/Селіасет.md",
+    "Боги/Ронас.md",
+    "Боги/Монту.md",
+    "Боги/Кнефміті.md",
+    "нпс/Клео.md",
+    "нпс/Буріс.md",
+    "локації/Хитрий лис.md",
+    "нпс/Вілл.md",
+    "Боги.md",
+    "персонажі",
+    "квестові предмети",
+    "Боги",
+    "локації/Прокляті землі.md",
+    "локації/Міср.md",
+    "сесії",
+    "нпс",
+    "локації"
+  ]
+}
