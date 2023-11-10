@@ -2,9 +2,11 @@ Install Obsidian https://obsidian.md/
 
 
 Install Git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+Sometimes Windows user need to add git.exe to PATH in local environments 
 ```console
 git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+git config --global user.email johndoe@example.com
 ```
 
 
@@ -28,8 +30,9 @@ Open terminal here
 
 Paste
 
-
+```console
 git clone git@github.com:self-aware-git/htyvyi-vlad.git
+```
 
 Open Obsidian
 
@@ -39,11 +42,16 @@ Open folder as storage
 
 Choose folder where you cloned project
 
+**Before to start do any changes:**
 
-Any time when you want to commit all changes and push updates choose Command in Obsidian (left column)
+pull changes from repository
 
+choose Command in Obsidian (left column)
+
+Pull
+
+**After editing project:**
 
 Choose commit all changes
-
 
 Choose push
