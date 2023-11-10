@@ -19,8 +19,12 @@
             "id": "dc194a0b4a4765ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "персонажі/Сігма.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "персонажі/Сігма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "персонажі/Сігма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "персонажі/Сігма.md"
+              }
             }
           }
         ]
@@ -138,8 +146,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markbase:Sync all Markbase projects": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
