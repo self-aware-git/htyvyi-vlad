@@ -2,6 +2,10 @@ Install Obsidian https://obsidian.md/
 
 
 Install Git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+```console
+git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
 
 
 Create account for Git hub https://github.com/

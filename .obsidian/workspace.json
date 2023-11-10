@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Фараон.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Фараон.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Фараон.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Фараон.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "19d8abb231828c72",
   "lastOpenFiles": [
+    "Боги/Фараон.md",
     "локації/Прокляті землі.md",
     "Боги/Кнефміті.md",
     "сесії/=2=.md",
@@ -156,7 +157,6 @@
     "квестові предмети/божественні вогні.md",
     "нпс/Клео.md",
     "квестові предмети/отрута павуків.md",
-    "Боги/Фараон.md",
     "персонажі/Фалкон.md",
     "персонажі/Ульфред.md",
     "персонажі/Аклазоц.md",
