@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "нпс/Блаженство.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "нпс/Блаженство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "нпс/Блаженство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "персонажі/Фалкон.md"
+                "file": "нпс/Блаженство.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "19d8abb231828c72",
   "lastOpenFiles": [
+    "персонажі/Аклазоц.md",
+    "персонажі/Фалкон.md",
     "Боги/Ронас.md",
     "сесії/=3=.md",
     "нпс/Блаженство.md",
@@ -162,9 +164,7 @@
     "квестові предмети/божественні вогні.md",
     "нпс/Клео.md",
     "квестові предмети/отрута павуків.md",
-    "персонажі/Фалкон.md",
     "персонажі/Ульфред.md",
-    "персонажі/Аклазоц.md",
     "персонажі/Квілаг.md",
     "персонажі/Катаан.md",
     "монстри/мумія.md",
