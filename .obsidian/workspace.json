@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сесії/=3=.md",
+                "file": "персонажі/Фалкон.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=3=.md",
+                "file": "персонажі/Фалкон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=3=.md",
+                "file": "персонажі/Фалкон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=3=.md"
+                "file": "персонажі/Фалкон.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "bf487f3bc2411c53",
   "lastOpenFiles": [
+    "сесії/=3=.md",
     "локації/Льви.md",
     "локації/Храм Ронаса.md",
     "персонажі/Фалкон.md",
@@ -155,7 +156,6 @@
     "персонажі/Квілаг.md",
     "персонажі/Сігма.md",
     "квестові предмети/Меч Ронаса.md",
-    "сесії/=3=.md",
     "нпс/Блаженство.md",
     "персонажі/Аклазоц.md",
     "Боги/Ронас.md",
