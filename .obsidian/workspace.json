@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e49d3f7fb4d83e6c",
+        "id": "b6a556e1d65274e6",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d556adcf0dbc72",
+            "id": "19d8abb231828c72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "нпс/Блаженство.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "нпс/Блаженство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "нпс/Блаженство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,45 +124,49 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "нпс/Блаженство.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "c0d556adcf0dbc72",
+  "active": "19d8abb231828c72",
   "lastOpenFiles": [
-    "сесії/=2=.md",
-    "монстри/Отруйні Павуки.md",
-    "монстри/Гобліни.md",
-    "монстри/мумія.md",
-    "локації/Прокляті землі.md",
-    "персонажі/Ульфред.md",
-    "квестові предмети/отрута павуків.md",
-    "сесії/=1=.md",
-    "персонажі/Катаан.md",
-    "персонажі/Квілаг.md",
-    "персонажі/Сігма.md",
-    "персонажі/Фалкон.md",
-    "персонажі/Аклазоц.md",
+    "нпс/Віллі.md",
+    "нпс/Блаженство.md",
     "README.md",
+    "монстри/Отруйні Павуки.md",
     "Боги/Фараон.md",
+    "локації/Прокляті землі.md",
     "Боги/Кнефміті.md",
+    "сесії/=2=.md",
+    "сесії/=1=.md",
+    "персонажі/Сігма.md",
     "квестові предмети/божественні вогні.md",
     "нпс/Клео.md",
+    "квестові предмети/отрута павуків.md",
+    "персонажі/Фалкон.md",
+    "персонажі/Ульфред.md",
+    "персонажі/Аклазоц.md",
+    "персонажі/Квілаг.md",
+    "персонажі/Катаан.md",
+    "монстри/мумія.md",
+    "монстри/Гобліни.md",
     "монстри",
     "Боги/Хетентеп.md",
     "Боги/Селіасет.md",
@@ -164,8 +174,6 @@
     "Боги/Монту.md",
     "нпс/Буріс.md",
     "локації/Хитрий лис.md",
-    "нпс/Вілл.md",
-    "Боги.md",
     "персонажі",
     "квестові предмети",
     "Боги",
