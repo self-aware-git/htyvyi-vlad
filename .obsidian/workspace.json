@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Фалкон.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Фалкон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Фалкон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Ронас.md"
+                "file": "персонажі/Фалкон.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "19d8abb231828c72",
   "lastOpenFiles": [
+    "Боги/Ронас.md",
     "сесії/=3=.md",
     "нпс/Блаженство.md",
     "нпс/Віллі.md",
@@ -171,7 +172,6 @@
     "монстри",
     "Боги/Хетентеп.md",
     "Боги/Селіасет.md",
-    "Боги/Ронас.md",
     "Боги/Монту.md",
     "нпс/Буріс.md",
     "персонажі",
