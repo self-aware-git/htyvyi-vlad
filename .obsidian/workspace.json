@@ -11,8 +11,12 @@
             "id": "d92889f961f72291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "нпс/Сларк Тоні.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "нпс/Сларк Тоні.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "нпс/Сларк Тоні.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "нпс/Сларк Тоні.md"
+              }
             }
           }
         ]
@@ -147,7 +155,7 @@
     "квестові предмети/Сувій правди.md",
     "монстри/щури.md",
     "Боги/Апофіс.md",
-    "нпс/Тоні Сларк.md",
+    "нпс/Сларк Тоні.md",
     "нпс/Блаженство.md",
     "Боги/Ронас.md",
     "персонажі/Фалкон.md",
