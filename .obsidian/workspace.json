@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Хетентеп.md",
+                "file": "нпс/Блаженство.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Хетентеп.md",
+                "file": "нпс/Блаженство.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Хетентеп.md",
+                "file": "нпс/Блаженство.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Хетентеп.md"
+                "file": "нпс/Блаженство.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "e59b3cd8f4598d38",
   "lastOpenFiles": [
-    "Боги/Апофіс.md",
+    "Боги/Ронас.md",
     "Боги/Хетентеп.md",
+    "Боги/Апофіс.md",
     "персонажі/Фалкон.md",
     "персонажі/Ульфред.md",
     "персонажі/Квілаг.md",
@@ -160,7 +161,6 @@
     "сесії/=2=.md",
     "сесії/=1=.md",
     "Без назви.md",
-    "Боги/Ронас.md",
     "локації/Міср.md",
     "квестові предмети/отрута павуків.md",
     "квестові предмети/божественні вогні.md",
