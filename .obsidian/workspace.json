@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "нпс/Блаженство.md",
+                "file": "Боги/Апофіс.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "нпс/Блаженство.md",
+                "file": "Боги/Апофіс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "нпс/Блаженство.md",
+                "file": "Боги/Апофіс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "нпс/Блаженство.md"
+                "file": "Боги/Апофіс.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "e59b3cd8f4598d38",
   "lastOpenFiles": [
+    "нпс/Тоні Сларк.md",
+    "нпс/Блаженство.md",
     "Боги/Ронас.md",
     "Боги/Хетентеп.md",
     "Боги/Апофіс.md",
@@ -165,14 +167,12 @@
     "квестові предмети/отрута павуків.md",
     "квестові предмети/божественні вогні.md",
     "Боги/Монту.md",
-    "нпс/Блаженство.md",
     "нпс/Віллі.md",
     "монстри/Отруйні Павуки.md",
     "локації/Храм Ронаса.md",
     "README.md",
     "Боги/Фараон.md",
     "локації/Прокляті землі.md",
-    "персонажі/Сігма.md",
     "монстри",
     "персонажі",
     "квестові предмети",
