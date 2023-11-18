@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27e1f352d0b795ab",
+        "id": "436c7bab300dbfaa",
         "type": "tabs",
         "children": [
           {
-            "id": "959bd94c4a636103",
+            "id": "d92889f961f72291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=4=.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=4=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=4=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "сесії/=4=.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,14 +137,14 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "959bd94c4a636103",
+  "active": "d92889f961f72291",
   "lastOpenFiles": [
+    "сесії/=4=.md",
     "сесії/=3=.md",
     "сесії/=1=.md",
     "сесії/=2=.md",
     "Боги/Хетентеп.md",
     "квестові предмети/Сувій правди.md",
-    "сесії/=4=.md",
     "монстри/щури.md",
     "Боги/Апофіс.md",
     "нпс/Тоні Сларк.md",
