@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "Боги/Апофіс.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "Боги/Апофіс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "персонажі/Фалкон.md",
+                "file": "Боги/Апофіс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "персонажі/Фалкон.md"
+                "file": "Боги/Апофіс.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "e59b3cd8f4598d38",
   "lastOpenFiles": [
+    "персонажі/Фалкон.md",
+    "Боги/Апофіс.md",
     "персонажі/Ульфред.md",
     "персонажі/Квілаг.md",
-    "персонажі/Фалкон.md",
     "Боги/Кнефмітіті.md",
     "квестові предмети/Меч Ронаса.md",
     "квестові предмети/Ікло Ронаса.md",
@@ -172,7 +173,6 @@
     "Боги/Фараон.md",
     "локації/Прокляті землі.md",
     "персонажі/Сігма.md",
-    "нпс/Клео.md",
     "монстри",
     "персонажі",
     "квестові предмети",
