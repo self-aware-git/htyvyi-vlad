@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "Боги/Хетентеп.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "Боги/Хетентеп.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "Боги/Хетентеп.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Апофіс.md"
+                "file": "Боги/Хетентеп.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "e59b3cd8f4598d38",
   "lastOpenFiles": [
-    "персонажі/Фалкон.md",
     "Боги/Апофіс.md",
+    "Боги/Хетентеп.md",
+    "персонажі/Фалкон.md",
     "персонажі/Ульфред.md",
     "персонажі/Квілаг.md",
     "Боги/Кнефмітіті.md",
@@ -158,7 +159,6 @@
     "сесії/=3=.md",
     "сесії/=2=.md",
     "сесії/=1=.md",
-    "Боги/Хетентеп.md",
     "Без назви.md",
     "Боги/Ронас.md",
     "локації/Міср.md",
