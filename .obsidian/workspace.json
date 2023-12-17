@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "436c7bab300dbfaa",
+        "id": "8a9d230278dff639",
         "type": "tabs",
         "children": [
           {
-            "id": "d92889f961f72291",
+            "id": "0f3bbf6e9ef20189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "нпс/Сларк Тоні.md",
+                "file": "сесії/=8,9=.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "нпс/Сларк Тоні.md",
+                "file": "сесії/=8,9=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "нпс/Сларк Тоні.md",
+                "file": "сесії/=8,9=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "нпс/Сларк Тоні.md"
+                "file": "сесії/=8,9=.md"
               }
             }
           }
@@ -133,46 +133,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d92889f961f72291",
+  "active": "0f3bbf6e9ef20189",
   "lastOpenFiles": [
+    "сесії/=7=.md",
+    "сесії/=6=.md",
+    "сесії/=5=.md",
     "сесії/=4=.md",
-    "сесії/=3=.md",
+    "локації/Прокляті землі.md",
+    "локації/Лазотеповий пролив.md",
+    "квестові предмети/Ріг Селіасет.md",
+    "квестові предмети/Ікло Ронаса.md",
+    "нпс/Мисливиця Ім'я Забуто.md",
+    "сесії/=8,9=.md",
+    "персонажі/Фалкон.md",
+    "локації/храм Селіасет.md",
+    "нпс/Шел.md",
+    "нпс/Альма.md",
+    "нпс/Абу Аль Хазім.md",
+    "нпс/Драма.md",
+    "нпс/Ім'я забуто, клірикиня Селіасет.md",
     "сесії/=1=.md",
     "сесії/=2=.md",
+    "персонажі/Шадар.md",
+    "README.md",
+    "нпс/Сларк Тоні.md",
+    "сесії/=3=.md",
     "Боги/Хетентеп.md",
     "квестові предмети/Сувій правди.md",
     "монстри/щури.md",
-    "Боги/Апофіс.md",
-    "нпс/Сларк Тоні.md",
-    "нпс/Блаженство.md",
-    "Боги/Ронас.md",
-    "персонажі/Фалкон.md",
-    "персонажі/Ульфред.md",
-    "персонажі/Квілаг.md",
-    "Боги/Кнефмітіті.md",
-    "квестові предмети/Меч Ронаса.md",
-    "квестові предмети/Ікло Ронаса.md",
-    "монстри/Льви.md",
-    "Без назви.md",
-    "локації/Міср.md",
-    "квестові предмети/отрута павуків.md",
-    "квестові предмети/божественні вогні.md",
-    "Боги/Монту.md",
-    "нпс/Віллі.md",
-    "монстри/Отруйні Павуки.md",
-    "локації/Храм Ронаса.md",
     "монстри",
     "персонажі",
     "квестові предмети",
