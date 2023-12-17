@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Квілаг.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Квілаг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Ронас.md",
+                "file": "персонажі/Квілаг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Ронас.md"
+                "file": "персонажі/Квілаг.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "0f3bbf6e9ef20189",
   "lastOpenFiles": [
+    "Боги/Ронас.md",
     "Боги/Монту.md",
     "Боги/Кнефмітіті.md",
     "Боги/Селіасет.md",
     "Боги/Фараон.md",
     "Боги/Хетентеп.md",
-    "Боги/Ронас.md",
     "Боги/Апофіс.md",
     "сесії/=8,9=.md",
     "сесії/=2=.md",
