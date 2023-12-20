@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сесії/=8,9=.md",
+                "file": "нпс/Ашенваль.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=8,9=.md",
+                "file": "нпс/Ашенваль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=8,9=.md",
+                "file": "нпс/Ашенваль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=8,9=.md"
+                "file": "нпс/Ашенваль.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f3bbf6e9ef20189",
+  "active": "34594d634678cf2d",
   "lastOpenFiles": [
+    "сесії/=8,9=.md",
     "сесії/=7=.md",
     "сесії/=6=.md",
     "сесії/=4=.md",
@@ -162,7 +163,6 @@
     "Боги/Фараон.md",
     "Боги/Хетентеп.md",
     "Боги/Апофіс.md",
-    "сесії/=8,9=.md",
     "сесії/=2=.md",
     "сесії/=3=.md",
     "локації/Прокляті землі.md",
