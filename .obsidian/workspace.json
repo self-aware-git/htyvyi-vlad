@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9d230278dff639",
+        "id": "436c7bab300dbfaa",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3bbf6e9ef20189",
+            "id": "d92889f961f72291",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "79d6b3f289107717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=10=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e440c4931efda9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=11=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=11=.md",
+                "file": "персонажі/Квілаг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=11=.md",
+                "file": "персонажі/Квілаг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=11=.md"
+                "file": "персонажі/Квілаг.md"
               }
             }
           }
@@ -158,47 +133,46 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "b3e440c4931efda9",
+  "active": "d92889f961f72291",
   "lastOpenFiles": [
-    "Боги/Апофіс.md",
-    "сесії/=11=.md",
-    "Ацкопацалько.md",
-    "локації/Міср.md",
-    "персонажі/Квілаг.md",
-    "сесії/=10=.md",
+    "нпс/Сларк Тоні.md",
     "сесії/=8,9=.md",
+    "сесії/=7=.md",
     "сесії/=6=.md",
     "сесії/=5=.md",
+    "сесії/=11=.md",
+    "сесії/=10=.md",
+    "персонажі/Шадар.md",
+    "нпс/Шел.md",
+    "нпс/Мисливиця за монстрами.md",
+    "нпс/Драма.md",
+    "нпс/Ашенваль.md",
+    "нпс/Альма.md",
+    "нпс/Абу Аль Хазім.md",
+    "локації/храм Селіасет.md",
+    "локації/Лазотеповий пролив.md",
+    "локації/Дідіванхвамдіс.md",
+    "квестові предмети/Ріг Селіасет.md",
+    "Ацкопацалько.md",
     "сесії/=4=.md",
     "сесії/=3=.md",
-    "сесії/=2=.md",
     "сесії/=1=.md",
-    "локації/Дідіванхвамдіс.md",
-    "локації/Лазотеповий пролив.md",
-    "квестові предмети/Ріг Селіасет.md",
-    "нпс/Ашенваль.md",
-    "сесії/=7=.md",
-    "нпс/Мисливиця за монстрами.md",
-    "Боги/Ронас.md",
-    "Боги/Монту.md",
-    "Боги/Кнефмітіті.md",
-    "Боги/Селіасет.md",
-    "Боги/Фараон.md",
+    "сесії/=2=.md",
     "Боги/Хетентеп.md",
-    "локації/Прокляті землі.md",
+    "квестові предмети/Сувій правди.md",
+    "монстри/щури.md",
     "монстри",
     "персонажі",
     "квестові предмети",
