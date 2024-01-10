@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "персонажі/Квілаг.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "персонажі/Квілаг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "персонажі/Квілаг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=12=.md"
+                "file": "персонажі/Квілаг.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "d49338429e15e805",
   "lastOpenFiles": [
+    "сесії/=12=.md",
     "Боги/Монту.md",
     "Боги/Кнефмітіті.md",
     "Боги/Апофіс.md",
-    "сесії/=12=.md",
     "сесії/=11=.md",
     "персонажі/Квілаг.md",
     "=12=",
