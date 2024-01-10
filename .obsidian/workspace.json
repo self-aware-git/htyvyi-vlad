@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Монту.md",
+                "file": "сесії/=12=.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Монту.md",
+                "file": "сесії/=12=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Монту.md",
+                "file": "сесії/=12=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Монту.md"
+                "file": "сесії/=12=.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "d49338429e15e805",
   "lastOpenFiles": [
+    "Боги/Монту.md",
     "Боги/Кнефмітіті.md",
     "Боги/Апофіс.md",
     "сесії/=12=.md",
@@ -186,7 +187,6 @@
     "нпс/Ацкопацалько.md",
     "сесії/=4=.md",
     "сесії/=3=.md",
-    "сесії/=1=.md",
     "монстри",
     "персонажі",
     "квестові предмети",
