@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d49338429e15e805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Боги/Монту.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "персонажі/Квілаг.md",
+                "file": "Боги/Монту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "персонажі/Квілаг.md",
+                "file": "Боги/Монту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "персонажі/Квілаг.md"
+                "file": "Боги/Монту.md"
               }
             }
           }
@@ -145,14 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d92889f961f72291",
+  "active": "d49338429e15e805",
   "lastOpenFiles": [
+    "Боги/Кнефмітіті.md",
+    "Боги/Апофіс.md",
+    "сесії/=12=.md",
+    "сесії/=11=.md",
+    "персонажі/Квілаг.md",
+    "=12=",
     "нпс/Сларк Тоні.md",
     "сесії/=8,9=.md",
     "сесії/=7=.md",
     "сесії/=6=.md",
     "сесії/=5=.md",
-    "сесії/=11=.md",
     "сесії/=10=.md",
     "персонажі/Шадар.md",
     "нпс/Шел.md",
@@ -165,14 +183,10 @@
     "локації/Лазотеповий пролив.md",
     "локації/Дідіванхвамдіс.md",
     "квестові предмети/Ріг Селіасет.md",
-    "Ацкопацалько.md",
+    "нпс/Ацкопацалько.md",
     "сесії/=4=.md",
     "сесії/=3=.md",
     "сесії/=1=.md",
-    "сесії/=2=.md",
-    "Боги/Хетентеп.md",
-    "квестові предмети/Сувій правди.md",
-    "монстри/щури.md",
     "монстри",
     "персонажі",
     "квестові предмети",
