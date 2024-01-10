@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Кнефмтіті.md",
+                "file": "сесії/=12=.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Кнефмтіті.md",
+                "file": "сесії/=12=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Кнефмтіті.md",
+                "file": "сесії/=12=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Кнефмтіті.md"
+                "file": "сесії/=12=.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "c4e8c4caf22efbbc",
   "lastOpenFiles": [
-    "персонажі/Квілаг.md",
     "Боги/Кнефмтіті.md",
+    "персонажі/Квілаг.md",
     "Боги/Хетентеп.md",
     "Боги/Фараон.md",
     "Боги/Селіасет.md",
