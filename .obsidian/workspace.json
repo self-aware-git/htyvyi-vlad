@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fe9b0ea408cb02b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сесії/=13=.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d49338429e15e805",
             "type": "leaf",
             "state": {
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "локації/Дідіванхвамдіс.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "сесії/=13=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=12=.md",
+                "file": "сесії/=13=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=12=.md"
+                "file": "сесії/=13=.md"
               }
             }
           }
@@ -170,12 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e8c4caf22efbbc",
+  "active": "fe9b0ea408cb02b5",
   "lastOpenFiles": [
-    "Боги/Кнефмтіті.md",
+    "Боги/Фараон.md",
+    "персонажі/Фалкон.md",
+    "сесії/=13=.md",
+    "сесії/=12=.md",
     "персонажі/Квілаг.md",
     "Боги/Хетентеп.md",
-    "Боги/Фараон.md",
+    "сесії/=10=.md",
+    "сесії/=11=.md",
+    "локації/Дідіванхвамдіс.md",
+    "Боги/Кнефмтіті.md",
     "Боги/Селіасет.md",
     "Боги/Ронас.md",
     "Боги/Монту.md",
@@ -185,9 +203,6 @@
     "квестові предмети/Сувій правди.md",
     "квестові предмети/отрута павуків.md",
     "квестові предмети/Ікло Ронаса.md",
-    "сесії/=10=.md",
-    "сесії/=11=.md",
-    "сесії/=12=.md",
     "=12=",
     "нпс/Сларк Тоні.md",
     "сесії/=8,9=.md",
@@ -196,9 +211,6 @@
     "сесії/=5=.md",
     "персонажі/Шадар.md",
     "нпс/Шел.md",
-    "нпс/Мисливиця за монстрами.md",
-    "нпс/Драма.md",
-    "нпс/Ашенваль.md",
     "монстри",
     "персонажі",
     "квестові предмети",
