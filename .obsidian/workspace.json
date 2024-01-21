@@ -37,10 +37,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=14=.md",
+                "file": "сесії/=10=.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "337d4897b56a83f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "нпс/Клео.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49650d41dfb35557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сесії/=11=.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56e180a4c5527b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "персонажі/Квілаг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4e2ad2b63624979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "локації/Гезіра.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb11239600b1ab94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -68,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,11 +190,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "=14=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "=14=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "=14=.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -194,35 +246,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea621a95cdc5096b",
+  "active": "fb11239600b1ab94",
   "lastOpenFiles": [
-    "сесії/=13=.md",
-    "=14=.md",
-    "персонажі/Квілаг.md",
-    "Боги/Кнефмтіті.md",
-    "локації/Дідіванхвамдіс.md",
-    "локації/Лазотеповий пролив.md",
-    "Боги/Селіасет.md",
-    "Боги/Хетентеп.md",
-    "Боги/Ронас.md",
-    "Боги/Монту.md",
-    "Боги/Апофіс.md",
-    "Боги/Фараон.md",
-    "персонажі/Фалкон.md",
-    "сесії/=12=.md",
+    "нпс/Вероніка.md",
+    "локації/Храм Монту.md",
     "сесії/=10=.md",
-    "сесії/=11=.md",
-    "квестові предмети/божественні вогні.md",
-    "квестові предмети/Молот Монту.md",
-    "квестові предмети/Сувій правди.md",
-    "квестові предмети/отрута павуків.md",
-    "квестові предмети/Ікло Ронаса.md",
-    "=12=",
-    "нпс/Сларк Тоні.md",
     "сесії/=8,9=.md",
     "сесії/=7=.md",
-    "сесії/=6=.md",
+    "локації/Лазотеповий пролив.md",
+    "локації/Хитрий лис.md",
     "сесії/=5=.md",
+    "сесії/=4=.md",
+    "сесії/=3=.md",
+    "сесії/=2=.md",
+    "сесії/=1=.md",
+    "нпс/Люди в масках.md",
+    "нпс/Драма.md",
+    "нпс/Ашенваль.md",
+    "локації/Дідіванхвамдіс.md",
+    "локації/Гезіра.md",
+    "локації/Храм Роноса 2.md",
+    "квестові предмети/Щит Роноса.md",
+    "сесії/=14=.md",
+    "персонажі/Квілаг.md",
+    "нпс/Мисливиця за монстрами.md",
+    "Боги/Фараон.md",
+    "локації/Круїз.md",
+    "сесії/=12=.md",
+    "сесії/=13=.md",
+    "=12=",
     "монстри",
     "персонажі",
     "квестові предмети",
