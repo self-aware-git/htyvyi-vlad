@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "нпс/Люди в масках.md",
+                "file": "квестові предмети/Сувій правди.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "нпс/Люди в масках.md",
+                "file": "квестові предмети/Сувій правди.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "нпс/Люди в масках.md",
+                "file": "квестові предмети/Сувій правди.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "нпс/Люди в масках.md"
+                "file": "квестові предмети/Сувій правди.md"
               }
             }
           }
@@ -254,8 +254,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb11239600b1ab94",
+  "active": "34594d634678cf2d",
   "lastOpenFiles": [
+    "нпс/Люди в масках.md",
     "сесії/=1=.md",
     "сесії/=4=.md",
     "сесії/=3=.md",
@@ -270,7 +271,6 @@
     "локації/Лазотеповий пролив.md",
     "локації/Хитрий лис.md",
     "сесії/=5=.md",
-    "нпс/Люди в масках.md",
     "нпс/Драма.md",
     "нпс/Ашенваль.md",
     "локації/Дідіванхвамдіс.md",
