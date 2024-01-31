@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "квестові предмети/Щит Роноса.md",
+                "file": "сесії/=16=.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806a88e33d687b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сесії/=16=.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "квестові предмети/Щит Роноса.md",
+                "file": "сесії/=16=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "квестові предмети/Щит Роноса.md",
+                "file": "сесії/=16=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "квестові предмети/Щит Роноса.md"
+                "file": "сесії/=16=.md"
               }
             }
           }
@@ -278,14 +290,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eaf7b917aae12ce",
+  "active": "806a88e33d687b55",
   "lastOpenFiles": [
+    "квестові предмети/божественні вогні.md",
+    "Око Селіасет.md",
     "сесії/=16=.md",
     "сесії/=15=.md",
-    "квестові предмети/божественні вогні.md",
+    "Боги/Апофіс.md",
+    "квестові предмети/Щит Роноса.md",
     "сесії/=14=.md",
     "сесії/=13=.md",
-    "квестові предмети/Щит Роноса.md",
     "локації/Гезіра.md",
     "квестові предмети/Сувій правди.md",
     "нпс/Люди в масках.md",
@@ -304,8 +318,6 @@
     "сесії/=5=.md",
     "нпс/Драма.md",
     "нпс/Ашенваль.md",
-    "локації/Дідіванхвамдіс.md",
-    "локації/Храм Роноса 2.md",
     "=12=",
     "монстри",
     "персонажі",
