@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d92889f961f72291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "персонажі/Квілаг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe9b0ea408cb02b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=13=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea621a95cdc5096b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=10=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337d4897b56a83f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "нпс/Клео.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49650d41dfb35557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=11=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e180a4c5527b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "персонажі/Квілаг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4e2ad2b63624979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "локації/Гезіра.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb11239600b1ab94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "квестові предмети/божественні вогні.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6501d18758d5d9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=15=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eaf7b917aae12ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "сесії/=16=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53876a92473ba814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "квестові предмети/божественні вогні.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64a4846db6ad7a13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "квестові предмети/божественні вогні.md",
+                "file": "сесії/=17=.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "квестові предмети/божественні вогні.md",
+                "file": "сесії/=17=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "квестові предмети/божественні вогні.md",
+                "file": "сесії/=17=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "квестові предмети/божественні вогні.md"
+                "file": "сесії/=17=.md"
               }
             }
           }
@@ -280,8 +147,8 @@
   },
   "active": "64a4846db6ad7a13",
   "lastOpenFiles": [
-    "нпс/Вероніка.md",
     "квестові предмети/божественні вогні.md",
+    "нпс/Вероніка.md",
     "сесії/=17=.md",
     "сесії/=16=.md",
     "персонажі/Квілаг.md",
