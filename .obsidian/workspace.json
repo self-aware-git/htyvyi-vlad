@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e581f7017fe806e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "=18=.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,12 +98,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "=18=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "нарфаніс",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "=18=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "=18=.md"
               }
             }
           }
@@ -145,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a4846db6ad7a13",
+  "active": "e581f7017fe806e2",
   "lastOpenFiles": [
+    "README.md",
+    "=18=.md",
     "сесії/=17=.md",
     "нпс/Апофіс-організація.md",
     "квестові предмети/божественні вогні.md",
@@ -171,8 +186,6 @@
     "локації/Храм Монту.md",
     "сесії/=10=.md",
     "сесії/=8,9=.md",
-    "сесії/=7=.md",
-    "локації/Лазотеповий пролив.md",
     "=12=",
     "монстри",
     "персонажі",
