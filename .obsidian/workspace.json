@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e581f7017fe806e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "нпс/Салік.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5035d7dc15a59fb9",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=17=.md",
+                "file": "нпс/Салік.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=17=.md",
+                "file": "нпс/Салік.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=17=.md"
+                "file": "нпс/Салік.md"
               }
             }
           }
@@ -170,8 +158,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5035d7dc15a59fb9",
+  "floating": {
+    "id": "3aa93587912f870b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d6888dd4540de6f5",
+        "type": "window",
+        "children": [
+          {
+            "id": "30383ff210f02fa5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e581f7017fe806e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "нпс/Салік.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 811,
+        "y": 132,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e581f7017fe806e2",
   "lastOpenFiles": [
+    "сесії/=17=.md",
     "сесії/=18=.md",
     "нпс/Вероніка.md",
     "Боги/Фараон.md",
@@ -180,7 +206,6 @@
     "нпс/Клео.md",
     "нпс/Салік.md",
     "README.md",
-    "сесії/=17=.md",
     "нпс/Апофіс-організація.md",
     "квестові предмети/божественні вогні.md",
     "сесії/=16=.md",
