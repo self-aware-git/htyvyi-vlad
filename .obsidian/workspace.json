@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=18=.md",
+                "file": "нпс/Салік.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5035d7dc15a59fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "нпс/Вероніка.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "=18=.md",
+                "file": "нпс/Вероніка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "=18=.md",
+                "file": "нпс/Вероніка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "=18=.md"
+                "file": "нпс/Вероніка.md"
               }
             }
           }
@@ -158,10 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e581f7017fe806e2",
+  "active": "5035d7dc15a59fb9",
   "lastOpenFiles": [
+    "Боги/Фараон.md",
+    "нпс/Мисливиця за монстрами.md",
+    "нпс/Леодон.md",
+    "нпс/Клео.md",
+    "нпс/Салік.md",
+    "сесії/=18=.md",
     "README.md",
-    "=18=.md",
     "сесії/=17=.md",
     "нпс/Апофіс-організація.md",
     "квестові предмети/божественні вогні.md",
@@ -169,7 +186,6 @@
     "сесії/=16=.md",
     "персонажі/Квілаг.md",
     "сесії/=13=.md",
-    "нпс/Салік.md",
     "нпс/Абадон.md",
     "квестові предмети/Око Селіасет.md",
     "квестові предмети/Молот Монту.md",
@@ -182,10 +198,6 @@
     "сесії/=1=.md",
     "сесії/=4=.md",
     "сесії/=3=.md",
-    "сесії/=2=.md",
-    "локації/Храм Монту.md",
-    "сесії/=10=.md",
-    "сесії/=8,9=.md",
     "=12=",
     "монстри",
     "персонажі",
