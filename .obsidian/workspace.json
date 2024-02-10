@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "нпс/Вероніка.md",
+                "file": "сесії/=18=.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "нпс/Вероніка.md",
+                "file": "сесії/=18=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "нпс/Вероніка.md",
+                "file": "сесії/=18=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "нпс/Вероніка.md"
+                "file": "сесії/=18=.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "5035d7dc15a59fb9",
   "lastOpenFiles": [
+    "нпс/Вероніка.md",
     "Боги/Фараон.md",
     "нпс/Мисливиця за монстрами.md",
     "нпс/Леодон.md",
@@ -182,7 +183,6 @@
     "сесії/=17=.md",
     "нпс/Апофіс-організація.md",
     "квестові предмети/божественні вогні.md",
-    "нпс/Вероніка.md",
     "сесії/=16=.md",
     "персонажі/Квілаг.md",
     "сесії/=13=.md",
