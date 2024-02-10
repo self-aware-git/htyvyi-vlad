@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сесії/=17=.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "сесії/=17=.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "сесії/=17=.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "сесії/=17=.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "64a4846db6ad7a13",
   "lastOpenFiles": [
+    "сесії/=17=.md",
+    "нпс/Апофіс-організація.md",
     "квестові предмети/божественні вогні.md",
     "нпс/Вероніка.md",
-    "сесії/=17=.md",
     "сесії/=16=.md",
     "персонажі/Квілаг.md",
-    "нпс/Апофіс-організація.md",
     "сесії/=13=.md",
     "нпс/Салік.md",
     "нпс/Абадон.md",
