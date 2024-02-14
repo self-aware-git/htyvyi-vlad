@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a571d687c0dd76d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Броня Фараона.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "квестові предмети/Молот Монту.md",
+                "file": "Броня Фараона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "квестові предмети/Молот Монту.md",
+                "file": "Броня Фараона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "квестові предмети/Молот Монту.md"
+                "file": "Броня Фараона.md"
               }
             }
           }
@@ -170,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9d63c1d4196cef9",
+  "active": "a571d687c0dd76d3",
   "lastOpenFiles": [
+    "квестові предмети/Молот Монту.md",
+    "Броня Фараона.md",
     "Боги/Апофіс.md",
     "Боги/Кнефмтіті.md",
     "README.md",
@@ -194,10 +208,8 @@
     "сесії/=13=.md",
     "нпс/Абадон.md",
     "квестові предмети/Око Селіасет.md",
-    "квестові предмети/Молот Монту.md",
     "квестові предмети/Щит Роноса.md",
     "сесії/=15=.md",
-    "сесії/=14=.md",
     "=12=",
     "монстри",
     "персонажі",
