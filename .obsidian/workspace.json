@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "нпс/Апоп.md",
+                "file": "Боги/Апофіс.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "нпс/Апоп.md",
+                "file": "Боги/Апофіс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "нпс/Апоп.md",
+                "file": "Боги/Апофіс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "нпс/Апоп.md"
+                "file": "Боги/Апофіс.md"
               }
             }
           }
@@ -170,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34594d634678cf2d",
+  "active": "c9d63c1d4196cef9",
   "lastOpenFiles": [
+    "Боги/Кнефмтіті.md",
+    "Боги/Апофіс.md",
+    "README.md",
     "сесії/=19=.md",
     "нпс/Апоп.md",
     "нпс/Левістус.md",
@@ -185,7 +188,6 @@
     "нпс/Мисливиця за монстрами.md",
     "нпс/Леодон.md",
     "нпс/Клео.md",
-    "README.md",
     "квестові предмети/божественні вогні.md",
     "сесії/=16=.md",
     "персонажі/Квілаг.md",
@@ -195,9 +197,7 @@
     "квестові предмети/Молот Монту.md",
     "квестові предмети/Щит Роноса.md",
     "сесії/=15=.md",
-    "Боги/Апофіс.md",
     "сесії/=14=.md",
-    "локації/Гезіра.md",
     "=12=",
     "монстри",
     "персонажі",
