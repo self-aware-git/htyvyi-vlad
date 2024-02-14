@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "квестові предмети/Молот Монту.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "квестові предмети/Молот Монту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Боги/Апофіс.md",
+                "file": "квестові предмети/Молот Монту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Боги/Апофіс.md"
+                "file": "квестові предмети/Молот Монту.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "c9d63c1d4196cef9",
   "lastOpenFiles": [
-    "Боги/Кнефмтіті.md",
     "Боги/Апофіс.md",
+    "Боги/Кнефмтіті.md",
     "README.md",
     "сесії/=19=.md",
     "нпс/Апоп.md",
