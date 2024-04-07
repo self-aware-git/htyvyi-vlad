@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdbe5a12521a6604",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06ffc601c902417b",
+  "active": "fdbe5a12521a6604",
   "lastOpenFiles": [
     "нпс/Драма.md",
     "сесії/=19=.md",
